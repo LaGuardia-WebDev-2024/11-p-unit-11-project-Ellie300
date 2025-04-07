@@ -1,5 +1,5 @@
 body {
-  background-color: aliceblue;
+  background-color: lightblue;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -15,12 +15,13 @@ html{
 
 #myCanvas {
   border: 1px solid black;
+  color: rgb(163, 157, 139)
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: lightblue;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
